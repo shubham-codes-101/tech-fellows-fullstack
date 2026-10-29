@@ -1,0 +1,4 @@
+HTML, CSS, and JavaScript work together to create my personal profile page.
+HTML provides the structure of the page, including headings, my introduction, learning goals, and the button. 
+CSS makes the page attractive by adding colors, spacing, fonts, and a centered card layout.
+JavaScript makes the page interactive by displaying the welcome message **"Welcome! I am learning HTML, CSS, and JavaScript!"** when I click the button. I used the browser Console to check whether my JavaScript code was working correctly. One problem I encountered was that the page design disappeared when I entered the wrong CSS filename. I solved this problem by correcting the filename to `style.css` and refreshing the browser. This task helped me understand how HTML, CSS, and JavaScript work together to build a webpage.
