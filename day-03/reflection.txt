@@ -9,3 +9,13 @@ The alt attribute describes images for users who cannot see them and helps scree
 One problem I faced was making navigation links work correctly. I solved this by matching the href values with the correct section IDs.
 
 This task helped me understand webpage structure, accessibility and better HTML practices.
+
+Semantic HTML is important because it gives a webpage clear and meaningful structure.
+It uses tags like header, nav, main, section, and footer to organize content so browsers, search engines, and screen readers can understand it easily. 
+This improves both accessibility and SEO. Alt text is a short description added to an image using the alt attribute in HTML. 
+It helps visually impaired users understand images through screen readers, and also appears if the image fails to load. 
+Both make the website more accessible, user-friendly, and easier to understand
+
+
+
+
