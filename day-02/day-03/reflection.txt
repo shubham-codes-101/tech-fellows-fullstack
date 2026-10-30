@@ -1,0 +1,11 @@
+Day 03 Reflection
+
+Semantic HTML helps developers create meaningful and well-organized web pages. It uses elements like header, nav, main, section and footer to describe different parts of a webpage.
+
+In my portfolio project, I used semantic HTML to organize my About, Skills and Projects sections. Navigation links help users move directly to different sections of the page. I used unordered lists for skills and ordered lists for my learning plan.
+
+The alt attribute describes images for users who cannot see them and helps screen readers understand image content.
+
+One problem I faced was making navigation links work correctly. I solved this by matching the href values with the correct section IDs.
+
+This task helped me understand webpage structure, accessibility and better HTML practices.

@@ -1,0 +1,31 @@
+DAY 03 KNOWLEDGE CHECK
+
+1. What does semantic HTML mean?
+Semantic HTML uses meaningful tags to describe the structure and content of a webpage.
+
+2. What is the difference between header and main?
+Header contains introductory content, while main contains the main content of a webpage.
+
+3. Why should a page use a logical heading hierarchy?
+It makes content easy to read and understand for users and search engines.
+
+4. What does href do?
+The href attribute specifies the destination of a link.
+
+5. How does href="#projects" work?
+It takes the user to the HTML element having id="projects".
+
+6. When should you use ul rather than ol?
+Use ul when the order of items does not matter.
+
+7. What is the purpose of an image's alt attribute?
+It describes an image for screen readers and when an image cannot load.
+
+8. Why is placeholder text not a replacement for a form label?
+Placeholder text disappears when users type, but a label identifies the field.
+
+9. What is the difference between section and a generic div?
+Section represents a meaningful content group, while div is a generic container.
+
+10. Name two ways to make a page more accessible.
+Use meaningful alt text for images and proper heading structures.
